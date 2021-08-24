@@ -141,7 +141,7 @@ body {
     display: table;
     clear: both; }
   .row [class^="col-"] {
-    background-color: orange;
+    background-color: #7ed56f;
     float: left; }
     .row [class^="col-"]:not(:last-child) {
       margin-right: 6rem; }
